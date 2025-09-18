@@ -1,12 +1,9 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+//Olá, me chamo Sal.//  
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Esse projeto é excluisivamente para resolver o traqueamento Shopify / Google Ads
 
+ Vamos usar a Stape, com o plano gratuito (permitindo 10k (mil) tics em seus servidores) / essa média de disparos não está fora da realidade da maioria dos ecommerces que estão anunciando ativamente na internet, mas, é importante verificar a quantidade de eventos que são gerados durante o mês, para não ultrapassar.
+ <<Importante - tenha em mente que se ativamente está trabalhando tráfego pago e frio para o seu site, as chances de exceder esse limite aumentam>> 
 
-print - ola mundo, sou eu
-
-esse e o primeiro documento que estou escrevendo totalmente em codigo, e estou feliz em poder compartilhar com voce
-
-segundo dia
+Primeiro, vamos começar com a configuração da Stape:
