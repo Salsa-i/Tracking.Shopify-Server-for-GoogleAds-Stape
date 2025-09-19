@@ -1,0 +1,4 @@
+Primeiro, crie sua conta na cloudflare `[Cloudflare](https://www.cloudflare.com/pt-br/)`
+
+assim que criar você terá a <imagem 1>[CloudflareConfig1](assets/CloudConfig1.jpg), insira a url do seu site, sem o https://, vai ficar assim: [loja.com] / selecione o plano gratuito em seguida [free]. 
+
