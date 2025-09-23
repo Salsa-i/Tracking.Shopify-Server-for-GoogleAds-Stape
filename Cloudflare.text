@@ -4,3 +4,12 @@ assim que criar você terá a <imagem 1>[CloudflareConfig1](assets/CloudConfig1.
 
 Eu uso a Cloudflare para poder usar varias contas sem ter muito problema, mas se você usa a mesma empresa onde comprou o seu dominio (ex: GoDaddy ou Hostinger), por lá você consegue alterar o DNS por nome, igualmente como na Cloudflare
 
+siga a <imagem2.1>(assets/CloudConfig2.1.jpg) algumas informações sobre Proxy (é interessante se quiser saber) / <imagem2.2>(assets/CloudConfig2.2.jpg) você vai ver no centro da tela todas informações sobre o domínio conectado / <imagem3>(assets/CloudConfig3.jpg) traduza a página,  vai ter todo o passo a passo para alterar o seu DNS para a CLoudFlare (que é o que vamos fazer) = Primeiro quadrado: aqui a Cloud fala sobre quem está hospedando seu DNS, no meu caso é a GoDaddy, abaixo, no proximo você tem dois links que a CloudFlare disponibiliza, eles vão ser os link que você vai alterar (vou dar uma explicada sobre, está abaixo:)
+
+depois de alterar, desça e continue. <imagem5>(assets/CloudConfig4.jpg)
+
+<imagem5.1>(assets/CloudConfig5.1.jpg) - Informações sobre o seu Setup na CloudFlare (irrelevante, mas vale o tempo para entender)
+<imagem5.2>(assets/CloudConfig5.2.jpg) - No final da página você consegue conferir se os endereços foram alterados. (Normalmente levam mais que 1 hora / em alguns casos, dias)
+
+
+(Sobre a alteração do DNS / Quando você compra um dominio, você tem um DNS, e nele existe servidores de nome, normalmente são 2, eles são links diferentes, a plataforma libera para você / eles são servidores que o Hoster libera para você)
