@@ -6,4 +6,27 @@ Esse projeto é exclusivamente para resolver o traqueamento Shopify / Google Ads
  Vamos usar a Stape, com o plano gratuito (permitindo 10k (mil) tics em seus servidores / é bom conferir se existe prazo para o container criado (e se vai precisar refazê-lo) / essa média de disparos não está fora da realidade da maioria dos ecommerces que estão anunciando ativamente na internet, mas, é importante verificar a quantidade de eventos que são gerados durante o mês, para não ultrapassar.
  <<Importante - tenha em mente que se ativamente está trabalhando tráfego pago e frio para o seu site, as chances de exceder esse limite aumentam>> 
 
-Primeiro, vamos começar com a configuração da Stape:
+1: 
+vamos começar com a configuração da Stape:
+
+2: 
+Configuração do DNS [ir para CLoudflare, ou usar o seu site de hospedagem)
+
+3: 
+Tag manager:
+Criar Container Server e WEB
+
+4: 
+SHOPIFY
+
+
+5: 
+juntar tudo:
+STAPE + DNS + SHOPIFY + TAG MANAGER
+
+6: 
+testar na prática
+
+
+7: 
+soluções de problemas
