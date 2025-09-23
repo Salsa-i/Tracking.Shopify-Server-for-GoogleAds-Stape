@@ -2,3 +2,5 @@ Primeiro, crie sua conta na cloudflare `[Cloudflare](https://www.cloudflare.com/
 
 assim que criar você terá a <imagem 1>[CloudflareConfig1](assets/CloudConfig1.jpg), insira a url do seu site, sem o https://, vai ficar assim: [loja.com] / selecione o plano gratuito em seguida [free]. 
 
+Eu uso a Cloudflare para poder usar varias contas sem ter muito problema, mas se você usa a mesma empresa onde comprou o seu dominio (ex: GoDaddy ou Hostinger), por lá você consegue alterar o DNS por nome, igualmente como na Cloudflare
+
