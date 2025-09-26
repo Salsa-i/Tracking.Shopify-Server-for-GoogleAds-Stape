@@ -13,3 +13,10 @@ depois de alterar, desça e continue. <imagem5>(assets/CloudConfig4.jpg)
 
 
 (Sobre a alteração do DNS / Quando você compra um dominio, você tem um DNS, e nele existe servidores de nome, normalmente são 2, eles são links diferentes, a plataforma libera para você / eles são servidores que o Hoster libera para você)
+
+Precisamos alterar os  servidores de nome lá onde foi comprado o domínio. Depois, voltamos para a cloudflare.
+
+Aguarde uma ou duas horas, para poder aparecer na cloud, mesmo se o seu hoster já alterou o endereço.
+
+
+
